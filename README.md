@@ -180,7 +180,9 @@ This helps managers by highlighting which menu items are the most profitable, al
 ## Database Information:
 ![image](https://github.com/user-attachments/assets/928f4c20-a980-4bab-8aca-88f320e65b55)
 
+Database name: ha_group5_crn71552
 
+The diagram above shows the teh different criteria that each query matches. Each element dictates the complexity of the query. Each query can be called via CALL TP_Qx(); where X is the query number.
 
 
 
