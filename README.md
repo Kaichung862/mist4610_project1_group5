@@ -190,7 +190,7 @@ This helps managers by highlighting which menu items are the most profitable, al
 
 Database name: ha_group5_crn71552
 
-The diagram above shows the teh different criteria that each query matches. Each element dictates the complexity of the query. Each query can be called via CALL TP_Qx(); where X is the query number.
+The diagram above shows the different criteria that each query matches. Each element dictates the complexity of the query. Each query can be called via CALL TP_Qx(); where X is the query number.
 
 
 
